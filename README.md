@@ -1,4 +1,4 @@
-#Exploration of Object Detection Techniques in Computer Vision through the Utilization of Advanced Machine and Deep Learning Algorithms.
+# Exploration of Object Detection Techniques in Computer Vision through the Utilization of Advanced Machine and Deep Learning Algorithms.
 
 Algorithms used are :
 
